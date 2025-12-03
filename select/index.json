@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "眼福",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2025-12-03T15:23:06.771119Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "眼福",
+      "artist": "Kenshi Yonezu",
+      "has_synced": false,
+      "path": "select/01_眼福_Kenshi_Yonezu.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "眼福",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/02_眼福_米津玄師.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "眼福",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/03_眼福_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "眼福",
+      "artist": "Yonezu Kenshi",
+      "has_synced": true,
+      "path": "select/04_眼福_Yonezu_Kenshi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "眼福",
+      "artist": "desert sand feels warm at night",
+      "has_synced": false,
+      "path": "select/05_眼福_desert_sand_feels_warm_at_night.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "眼福",
+      "artist": "赵学而",
+      "has_synced": false,
+      "path": "select/06_眼福_赵学而.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "眼福 - Ganpuku",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/07_眼福_-_Ganpuku_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "眼福",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/08_眼福_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "眼福",
+      "artist": "趙學而",
+      "has_synced": false,
+      "path": "select/09_眼福_趙學而.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "眼福",
+      "artist": "米津玄师",
+      "has_synced": true,
+      "path": "select/10_眼福_米津玄师.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "眼福",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_眼福_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "眼福",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_02_眼福_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "眼福",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_03_眼福_米津玄師.txt"
+    }
+  ]
+}
